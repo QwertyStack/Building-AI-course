@@ -4,7 +4,7 @@ _This is a compilation of all the exercises I've made in https://buildingai.elem
 
 ## License 📄
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](license.md) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/QwertyStack/Building-AI-course/blob/main/LICENSE) file for details.
 
 
 ## Getting Started 🚀
